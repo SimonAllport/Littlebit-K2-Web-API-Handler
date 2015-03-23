@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LittleBitPushApp", "LittleBitPushApp.csproj", "{9D5551AD-7BF6-4CF7-9461-9F78BF4A0705}"
+EndProject
+Project("{D50D8A3F-5CE1-4E89-9491-F84FAB0E386A}") = "LittlebitWorkflow", "..\LittlebitWorkflow\LittlebitWorkflow.k2proj", "{74F55B1D-14F1-4E37-BBD9-FB270ADC2212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D5551AD-7BF6-4CF7-9461-9F78BF4A0705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5551AD-7BF6-4CF7-9461-9F78BF4A0705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5551AD-7BF6-4CF7-9461-9F78BF4A0705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5551AD-7BF6-4CF7-9461-9F78BF4A0705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F55B1D-14F1-4E37-BBD9-FB270ADC2212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F55B1D-14F1-4E37-BBD9-FB270ADC2212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F55B1D-14F1-4E37-BBD9-FB270ADC2212}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{74F55B1D-14F1-4E37-BBD9-FB270ADC2212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F55B1D-14F1-4E37-BBD9-FB270ADC2212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F55B1D-14F1-4E37-BBD9-FB270ADC2212}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A440335F-7BB3-427E-A617-C2A17B6FB419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A440335F-7BB3-427E-A617-C2A17B6FB419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A440335F-7BB3-427E-A617-C2A17B6FB419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A440335F-7BB3-427E-A617-C2A17B6FB419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
